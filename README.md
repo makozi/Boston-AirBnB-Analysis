@@ -41,6 +41,10 @@ Open the notebook on [Colab](https://colab.research.google.com/github/makozi/Bos
 
 2.  It appears you want to visit Boston on a Weekday to get the best deal which makes sense because majority of people will be at work during this time. However, difference between the mean of a weekend price and a weekday price is less than 10 dollars or 5% of total cost.
 
+
+## Medium Post
+
+Link to my post on [Medium](https://medium.com/@marizu_makozi/airbnb-in-boston-6d8e22a4fbee?sk=eb56712f44f1f721986454d32cb91599)
  ## License
 
 This project is licensed under the  [MIT License](https://github.com/makozi/Boston-AirBnB-Analysis/blob/master/LICENSE)
