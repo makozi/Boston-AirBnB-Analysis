@@ -1,4 +1,4 @@
-# Boston-AirBnB-Analysis
+# Boston AirBnB Analysis
 
 The Boston AirBnB Analysis has the listing activity of homestays in Boston, MA.
 
@@ -43,7 +43,7 @@ Open the notebook on [Colab](https://colab.research.google.com/github/makozi/Bos
 
  ## License
 
-This project is licensed under the  [MIT License](https://github.com/makozi/Indeed-Dataset/blob/master/LICENSE)
+This project is licensed under the  [MIT License](https://github.com/makozi/Boston-AirBnB-Analysis/blob/master/LICENSE)
 
 Follow me on [Twitter](https://twitter.com/marizu_makozi)
 
